@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Natural selection.cpp
+C:\Users\Home-PC\source\repos\Natural selection\Natural selection\Natural selection.cpp(606,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Natural selectionDlg.cpp
+  Создание кода
+  Compiler version has changed, fall back to full compilation.
+  All 263 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Natural selection.vcxproj -> C:\Users\Home-PC\source\repos\Natural selection\Release\Natural selection.exe
